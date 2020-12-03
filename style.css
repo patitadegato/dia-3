@@ -1,0 +1,64 @@
+header{
+  border:5px solid red;
+    height:10px;
+  padding:20px;
+  width:10%;
+  margin:0 auto;
+bord:3px solid black;
+  height:100px;
+  padding: 20px 20px 5px;
+  text-shadow:3px 5px 4px;
+  background-color: #D6DBDF;
+}
+
+nav{
+  border:3px solid purple;
+  height:10px;
+  }
+h1{color: #2471A3}
+
+.clase {
+  font-family:"calibri";
+  font-size: 35px}
+.bdp{
+  font-family:arial;
+  color:#EC7063;
+  font-size:25px; 
+}
+.raph{
+  color:#52BE80;
+  font-family:roboto;
+  font-size:20px;
+}
+footer{
+  border:15px solid grey;
+  height:10px
+  
+}
+.pdg{font-family:arial;
+  color:#EC7063;
+  font-size:25px;}
+.caja{
+border:15px solid grey; 
+}
+
+.p1{
+  width:10%;
+  margin:0 auto;
+bord:6px solid black;
+  height:200px;
+  padding: 10px 40px 40px;
+  text-shadow:3px 5px 4px;
+  background-color: #F1948A;
+
+  font-family:calibri;
+  color: green;
+font-size:28px;  
+}
+
+h2{
+  font-family:arial;
+  font-size:40px;
+  text-shadow:3px 5px 4px pink;
+  
+}
